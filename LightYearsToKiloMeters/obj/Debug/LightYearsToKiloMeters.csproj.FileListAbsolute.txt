@@ -1,0 +1,10 @@
+C:\Users\Samet\source\repos\LightYearsToKiloMeters\LightYearsToKiloMeters\bin\Debug\LightYearsToKiloMeters.exe.config
+C:\Users\Samet\source\repos\LightYearsToKiloMeters\LightYearsToKiloMeters\bin\Debug\LightYearsToKiloMeters.exe
+C:\Users\Samet\source\repos\LightYearsToKiloMeters\LightYearsToKiloMeters\bin\Debug\LightYearsToKiloMeters.pdb
+C:\Users\Samet\source\repos\LightYearsToKiloMeters\LightYearsToKiloMeters\obj\Debug\LightYearsToKiloMeters.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\LightYearsToKiloMeters\LightYearsToKiloMeters\obj\Debug\LightYearsToKiloMeters.LightYearsToKiloMeters.resources
+C:\Users\Samet\source\repos\LightYearsToKiloMeters\LightYearsToKiloMeters\obj\Debug\LightYearsToKiloMeters.Properties.Resources.resources
+C:\Users\Samet\source\repos\LightYearsToKiloMeters\LightYearsToKiloMeters\obj\Debug\LightYearsToKiloMeters.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\LightYearsToKiloMeters\LightYearsToKiloMeters\obj\Debug\LightYearsToKiloMeters.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\LightYearsToKiloMeters\LightYearsToKiloMeters\obj\Debug\LightYearsToKiloMeters.exe
+C:\Users\Samet\source\repos\LightYearsToKiloMeters\LightYearsToKiloMeters\obj\Debug\LightYearsToKiloMeters.pdb
